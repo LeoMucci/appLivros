@@ -55,7 +55,7 @@ export default function Home(){
 const estilo = StyleSheet.create(
 {
         cardEstilo: {
-            margin:5,
+            margin:15,
             display:"flex",
             
         }
